@@ -1,0 +1,15 @@
+git init : Used to initialise empty repository. It creates a .git folder in the current folder that keeps all the track.
+
+git add. : Used to add the files that has to be tracked by git.
+
+git commit -m "<message>" : Used to commit or save the current state as checkpoint after adding changes with a commit message.
+
+git push -u origin master : Used to push your commits to Github.
+
+git remote add origin <git-repo-link> : Used to add origin or url of your Github repo to local git.
+
+git config --global user.name "<name>" : It sets the name you want attached to your version control.
+
+git config --global user.email "<email-address>" : It sets the email you want attached to your version control.
+
+git log : It lists version commit history for the current branch.
