@@ -1,6 +1,8 @@
 git init : Used to initialise empty repository. It creates a .git folder in the current folder that keeps all the track.
 
-git add. : Used to add the files that has to be tracked by git.
+git add . : Used to add the files that has to be tracked by git.
+
+git add <filename> : Used to add a particular file that has to be tracked by git.
 
 git commit -m "<message>" : Used to commit or save the current state as checkpoint after adding changes with a commit message.
 
