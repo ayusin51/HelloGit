@@ -13,3 +13,5 @@ git config --global user.name "<name>" : It sets the name you want attached to y
 git config --global user.email "<email-address>" : It sets the email you want attached to your version control.
 
 git log : It lists version commit history for the current branch.
+
+git reset --hard : Throw away uncommitted changes without any way for Git to recover them
